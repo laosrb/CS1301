@@ -1,0 +1,7 @@
+int long_side = 12
+int short_side = 10
+int perimeter
+perimeter = 2 * long_side + * short_side
+printl("longSide= ", long_side)
+printl("shortSide= ", short_side)
+print("perimeter = : " * perimeter)

@@ -1,0 +1,4 @@
+test.txt
+import random
+if random.randint(1,100)
+print
